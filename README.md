@@ -4,7 +4,7 @@ Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/brake-recipe.svg?
 
 # About BRaKE
 
-Home: https://github.com/cmshobe/brake-model
+Home: http://csdms.colorado.edu/wiki/Model:BRaKE
 
 Package license: MIT
 
