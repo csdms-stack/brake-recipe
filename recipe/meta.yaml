@@ -29,6 +29,6 @@ test:
 
 about:
   home: http://csdms.colorado.edu/wiki/Model:BRaKE
-  license: LGPL-3.0
+  license: MIT
   summary: BRaKE is the Blocky River and Knickpoint Evolution model
   dev_url: https://github.com/cmshobe/brake-model

@@ -6,7 +6,7 @@ Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/brake-recipe.svg?
 
 Home: https://github.com/cmshobe/brake-model
 
-Package license: LGPL-3.0
+Package license: MIT
 
 Summary: BRaKE is the Blocky River and Knickpoint Evolution model
 
