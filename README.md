@@ -1,6 +1,6 @@
 # Current Build Status
 
-Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/brake-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/permamodel-recipe)
+Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/brake-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/brake-recipe)
 
 # About BRaKE
 
